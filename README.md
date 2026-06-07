@@ -9,8 +9,6 @@ Cyano World was an educational game and city-building simulation focused on sust
 
 ## Project Concept
 
-The game featured:
-
 - **Renewable Energy Systems**: Solar thermal plants, photovoltaic arrays, wind turbines (horizontal and vertical axis), geothermal plants, wave energy systems, and hydroelectric dams
 - **Food Production**: Traditional farming, aquaponics systems, chicken farms, and egg production
 - **Water Management**: Rainwater tanks, desalination plants, and water distribution systems
@@ -20,8 +18,6 @@ The game featured:
 ## Development Status
 
 ### What Was Completed
-
-The project reached the **concept and design phase**. Extensive 3D asset development was completed, including:
 
 - 3D models for all building types and infrastructure with technical specifications and dimensions
 - Concept art and promotional materials
@@ -49,8 +45,6 @@ The project reached the **concept and design phase**. Extensive 3D asset develop
 - **Status**: Archive repository created after project conclusion
 
 ## Why Development Stopped
-
-Several factors likely contributed to the project's discontinuation:
 
 1. **Scope Creep**: The ambitious feature set covering multiple renewable energy types, climate systems, and building mechanics required substantial ongoing development
 
